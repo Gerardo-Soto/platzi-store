@@ -10,6 +10,7 @@ git: # número de versiones (git) a guardar
 script: #script a ejecutar
         - yarn build
 notifications:
+        slack: teamplatzigerard:t9VF4p3pixxOzJ8nCbhQerci
         email:
                 recipientes:
                         - gerardo.8.soto@gmail.com
